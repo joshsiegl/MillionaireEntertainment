@@ -1,0 +1,33 @@
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\Millionaire Entertainment Casino.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\App.g.cs
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\MainPage.g.cs
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\MonoGameSample.g.resources
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\Millionaire Entertainment Casino.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\MonoGameSample.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\MonoGameSample.pdb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Content\Casino\background.xnb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\MonoGameSample.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\MonoGameSample.pdb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\AppManifest.xaml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\MonoGameSample_Debug_x86.xap
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\MonoGame.Framework.pdb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\x86\Debug\SharpDX.WP8.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\MonoGameSample.Resources.AppResources.resources
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\x86\Debug\XapCacheFile.xml

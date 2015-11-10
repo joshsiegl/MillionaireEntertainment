@@ -1,0 +1,35 @@
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Assets\ApplicationIcon.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Content\Casino\background.xnb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\MonoGameSample.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\MonoGameSample.pdb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\AppManifest.xaml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Properties\WMAppManifest.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\MonoGameSample_Debug_ARM.xap
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\MonoGame.Framework.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.Direct3D11.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.XAudio2.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.DXGI.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.WP8.winmd
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\MonoGame.Framework.pdb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.Direct3D11.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.XAudio2.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.DXGI.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\SharpDX.WP8.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\Millionaire Entertainment Casino.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\App.g.cs
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\MonoGameSample.g.resources
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\MonoGameSample.Resources.AppResources.resources
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\Millionaire Entertainment Casino.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\MonoGameSample.dll
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\MonoGameSample.pdb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\obj\ARM\Debug\XapCacheFile.xml
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Content\MillionaireEntertainment\logo.xnb
+C:\Users\Josh\Desktop\Casino\MonoGameSample\MonoGameSample\Bin\ARM\Debug\Content\Menu\Fonts\menuFont.xnb

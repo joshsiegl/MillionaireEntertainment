@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 using MenuSystem;
 using MenuSystem.Screens;
 
-using MonoGameSample.MillionaireEntertainment; 
+using MillionaireEntertainment;
 
-namespace MonoGameSample
+namespace Casino
 {
     public class Game1 : Game
     {
@@ -29,7 +29,7 @@ namespace MonoGameSample
         protected override void Initialize()
         {
             manager = new ScreenManager(this, 1600, 960);
-            //manager.AddScreen(new SplashScreen(new SplashScreen()), PlayerIndex.One);
+            manager.AddScreen(new SplashScreen(new Casino.Menu.Game.CasinoScreen()), PlayerIndex.One);
             Components.Add(manager); 
 
             base.Initialize();
@@ -39,12 +39,12 @@ namespace MonoGameSample
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            MillionaireEntertainment.User.SetCoins();
-            MillionaireEntertainment.User.SetLevel();
-            MillionaireEntertainment.User.SetSpinsRemaining();
+            User.SetCoins();
+            User.SetLevel();
+            User.SetSpinsRemaining();
 
-            MillionaireEntertainment.User.FBClicked = IO.LoadFBClicked();
-            MillionaireEntertainment.User.RateClicked = IO.LoadRateClicked(); 
+            User.FBClicked = IO.LoadFBClicked();
+            User.RateClicked = IO.LoadRateClicked(); 
 
             base.LoadContent();
         }

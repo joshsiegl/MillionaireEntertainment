@@ -10,6 +10,8 @@ using Microsoft.Phone.Shell;
 using MonoGameSample.Resources;
 using MonoGame.Framework.WindowsPhone;
 
+using Casino; 
+
 namespace MonoGameSample
 {
     public partial class MainPage : PhoneApplicationPage

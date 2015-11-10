@@ -5,7 +5,7 @@ using System.Text;
 
 using Microsoft.Xna.Framework; 
 
-namespace MonoGameSample.MillionaireEntertainment
+namespace MillionaireEntertainment
 {
     public class Animation
     {

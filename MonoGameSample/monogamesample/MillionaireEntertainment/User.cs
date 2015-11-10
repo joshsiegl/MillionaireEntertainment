@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MonoGameSample.MillionaireEntertainment
+namespace MillionaireEntertainment
 {
     public static class User
     {

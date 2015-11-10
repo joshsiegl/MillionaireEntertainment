@@ -8,7 +8,7 @@ using Windows.ApplicationModel.Store;
 using System.Windows.Navigation;
 using System.Windows;
 
-namespace MonoGameSample.MillionaireEntertainment
+namespace MillionaireEntertainment
 {
     public class Products
     {

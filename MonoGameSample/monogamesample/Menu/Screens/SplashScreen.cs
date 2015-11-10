@@ -28,7 +28,9 @@ namespace MenuSystem.Screens
             : base("")
         {
             ActiveTime = 7000f;
-            this.NextScreen = nextScreen; 
+            this.NextScreen = nextScreen;
+
+            logoPosition = Vector2.Zero; 
         }
 
         public override void LoadContent()
@@ -36,7 +38,7 @@ namespace MenuSystem.Screens
             if (content == null)
                 content = new ContentManager(ScreenManager.Game.Services, "Content");
 
-            logo = content.Load<Texture2D>("Menu/Graphics/millionaire_entertainment_logo_3");
+            logo = content.Load<Texture2D>("MillionaireEntertainment/logo");
         }
 
         protected override void OnCancel(PlayerIndex playerIndex)

@@ -6,7 +6,7 @@ using System.Text;
 using System.IO;
 using System.IO.IsolatedStorage;
 
-namespace MonoGameSample.MillionaireEntertainment
+namespace MillionaireEntertainment
 {
     public static class IO
     {
