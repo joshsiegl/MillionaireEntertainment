@@ -99,6 +99,22 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Menu\ScreenManager\GameScreen.cs" />
+    <Compile Include="Menu\ScreenManager\InputState.cs" />
+    <Compile Include="Menu\ScreenManager\ScreenManager.cs" />
+    <Compile Include="Menu\Screens\BackgroundScreen.cs" />
+    <Compile Include="Menu\Screens\ButtonEntry.cs" />
+    <Compile Include="Menu\Screens\CreditsScreen.cs" />
+    <Compile Include="Menu\Screens\MenuEntry.cs" />
+    <Compile Include="Menu\Screens\MenuScreen.cs" />
+    <Compile Include="Menu\Screens\MessageBoxScreen.cs" />
+    <Compile Include="Menu\Screens\OptionsMenuScreen.cs" />
+    <Compile Include="Menu\Screens\PlayerIndexEventArgs.cs" />
+    <Compile Include="Menu\Screens\SplashScreen.cs" />
+    <Compile Include="MillionaireEntertainment\Animation.cs" />
+    <Compile Include="MillionaireEntertainment\IO.cs" />
+    <Compile Include="MillionaireEntertainment\Products.cs" />
+    <Compile Include="MillionaireEntertainment\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resources\AppResources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -151,7 +167,13 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Content\" />
+    <Folder Include="Content\Bingo\" />
+    <Folder Include="Content\Casino\" />
+    <Folder Include="Content\Menu\" />
+    <Folder Include="Content\MillionaireEntertainment\" />
+    <Folder Include="Content\Slots\" />
+    <Folder Include="Content\VidoePoker\" />
+    <Folder Include="Menu\Game\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
